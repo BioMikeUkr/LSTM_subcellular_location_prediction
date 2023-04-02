@@ -1,3 +1,4 @@
+#run from console in folder with target file as python fasta_to_csv.py сytoplasm.fasta
 from Bio import SeqIO
 import csv
 import sys
